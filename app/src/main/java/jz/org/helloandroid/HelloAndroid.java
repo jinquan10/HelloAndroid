@@ -17,7 +17,7 @@ public class HelloAndroid extends ActionBarActivity {
         TextView tv = new TextView(this);
         tl.addView(tv);
 
-        tv.setText("Hello Android!");
+        tv.setText("Hello Android :(");
 
         setContentView(tl);
     }
